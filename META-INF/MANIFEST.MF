@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: sherlock.jar
+Main-Class: plagiarsimchecker.RunSherlock
+
